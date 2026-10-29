@@ -1,0 +1,6 @@
+id=powerhint_tester
+name=PowerHint Tester
+version=1.0
+versionCode=1
+author=okkotsu
+description=Systemless powerhint.json overlay for testing libperfmgr. Requires KernelSU overlay support.
